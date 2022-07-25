@@ -1,1 +1,1 @@
-This repo is about RSA-Factoring-Challenge
+RSA-Factoring-Challenge
